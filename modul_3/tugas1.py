@@ -1,0 +1,2 @@
+hobi = "Menyanyi"
+print(hobi)
