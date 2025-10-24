@@ -1,6 +1,8 @@
+# Kalender 1 tahun full
+
 import calendar
 
-# Meminta pengguna memasukan tahun dan bulan
+# Meminta pengguna memasukan tahun
 tahun = int(input("Masukan tahun: "))
 
 # Menampilkan kalender kecil
